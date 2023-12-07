@@ -70,9 +70,18 @@ Then i realised i didnt have java, so i installed it. But when i tried to instal
     - server seems to start
     - server starts, and is joinable
 
+### Avaritia Addons
+  - does not work on its own
+  - requires [Wanion Lib](#Wanion-Lib)
+  - with [Wanion Lib](#Wanion-Lib)
+    - server seems to start
+    - server starts, and is joinable
 
-Avaritia-1.12.2-3.3.0.37-universal.jar
-Avaritiaddons-1.12.2-1.8b.jar
+### Bad Wither No Cookie Reloaded
+  - mod appears to be client side from documentation, although minecraft version here is 1.12.2 and 1.18.2 is reqiured to not run the mod server side
+  - server seems to start
+  - server starts, and is joinable
+
 badwithernocookiereloaded-1.12.2-3.4.18.jar
 base-1.12.2-3.14.0.jar
 Baubles-1.12-1.5.2.jar
@@ -92,6 +101,7 @@ Clumps-3.1.2.jar
 
 ### Code Chicken Lib
   - starting with [Avaritia](#Avaritia)
+
 CodeChickenLib-1.12.2-3.2.3.358-universal.jar
 CoFHCore-1.12.2-4.6.6.1-universal.jar
 CoFHWorld-1.12.2-1.4.0.1-universal.jar
@@ -167,9 +177,7 @@ p455w0rdslib-1.12.2-2.3.161.jar
 Patchouli-1.0-23.6.jar
 
 ### Placebo
-  - i already have [Apotheosis](#Apotheosis) installed
-  - server seems to start
-  - server starts, and is joinable
+  - starting with [Apotheosis](#Apotheosis)
 
 ProjectIntelligence-1.12.2-1.0.9.28-universal.jar
 randompatches-1.12.2-1.22.1.10.jar
@@ -203,6 +211,10 @@ tombstone-4.6.2-1.12.2.jar
 UniDict-1.12.2-3.0.10.jar
 UniversalTweaks-1.12.2-1.7.1.jar
 voidislandcontrol-1.5.3.jar
+
+### Wanion Lib
+  - starting with [Avarita Addons](#Avarita-Addons)
+
 WanionLib-1.12.2-2.91.jar
 XenCraft-1.0.0.4.jar
 xnet-1.12-1.8.2.jar
