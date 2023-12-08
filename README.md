@@ -82,7 +82,10 @@ Then i realised i didnt have java, so i installed it. But when i tried to instal
   - server seems to start
   - server starts, and is joinable
 
-badwithernocookiereloaded-1.12.2-3.4.18.jar
+### BaseLib
+  - server seems to start, but is now much slower than it has been. my server isnt that powerful though so its not all that surprising.
+  - once server was joined, it crashed due to a corrupted tile entity. it now will not start due to lack of memory. i will upgrade the server soon to counteract this
+
 base-1.12.2-3.14.0.jar
 Baubles-1.12-1.5.2.jar
 BetterAdvancements-1.12.2-0.1.0.77.jar
